@@ -1,0 +1,14 @@
+signed in in navbar with icon and dropdown
+<p class="navbar-text navbar-right">Signed in as <a href="#" class="navbar-link">Mark Otto</a></p>
+
+eine nav für home und eine für login
+https://www.youtube.com/watch?v=IRt7TzsLNWU&index=6&list=PLUoqTnNH-2Xz_BUrjcahKWDhPcUj-FTOt
+
+carousel images
+	carousel_small_01
+	carousel_medium_01
+	carousel_large_01
+
+
+left navigation toggle
+http://www.bootply.com/113767
